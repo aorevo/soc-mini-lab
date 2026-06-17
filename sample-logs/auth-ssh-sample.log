@@ -1,0 +1,7 @@
+Jun 17 16:22:30 LAB_HOST sshd[47390]: Invalid user INVALID_USER from LOCALHOST_IPV6 port 40312
+Jun 17 16:22:30 LAB_HOST sshd[47390]: Connection closed by invalid user INVALID_USER LOCALHOST_IPV6 port 40312 [preauth]
+Jun 17 16:22:46 LAB_HOST sshd[47398]: Connection closed by LOCALHOST_IPV6 port 38442 [preauth]
+Jun 17 16:24:10 LAB_HOST sshd[47406]: Invalid user INVALID_USER from LOCALHOST_IPV6 port 42644
+Jun 17 16:24:10 LAB_HOST sshd[47406]: Connection closed by invalid user INVALID_USER LOCALHOST_IPV6 port 42644 [preauth]
+Jun 17 16:24:18 LAB_HOST sshd[47412]: Connection closed by authenticating user LAB_USER LOCALHOST_IPV6 port 58406 [preauth]
+Jun 17 16:24:19 LAB_HOST sshd[47415]: Connection closed by authenticating user LAB_USER LOCALHOST_IPV6 port 58414 [preauth]
